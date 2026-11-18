@@ -13,3 +13,21 @@ This project is related to my graduate research interests in femtosecond laser f
 
 The goal is to create a numerical model that generates different phase profiles, applies them to a simulated laser beam, and visualizes the resulting optical field.
 
+### Planned Data and Imaging Modality
+
+The project will use simulated optical data rather than experimental measurements.
+
+The simulation will generate:
+
+- Two-dimensional Gaussian laser beam profiles.
+- Mathematical phase distributions representing different phase plates.
+- Simulated propagated beam intensity distributions.
+- Visual comparisons between the original and modified beams.
+
+### Programming Languages and Tools:
+
+- Python
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Github 
