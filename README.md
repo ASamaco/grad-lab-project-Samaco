@@ -40,6 +40,12 @@ My goal for the coming week is to develop a basic Python simulation of a gaussia
 
 - What is a commit?
 
+A commit is a saved record of changes made to a repository, allowing the development of a project to be tracked over time.
+
 - Why might you use a branch instead of editing main directly?
 
+A branch allows changes to be developed and tested separately before being incorporated into the main version of the project.
+
 - How does an issue differ from a pull request?
+
+An issue documents a task, problem, or idea, while a pull request proposes changes to a repository for review before merging them into the main branch.
