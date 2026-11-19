@@ -13,7 +13,7 @@ This project is related to my graduate research interests in femtosecond laser f
 
 The goal is to create a numerical model that generates different phase profiles, applies them to a simulated laser beam, and visualizes the resulting optical field.
 
-### Planned Data and Imaging Modality
+### Planned Data and Imaging Modality:
 
 The project will use simulated optical data rather than experimental measurements.
 
@@ -32,6 +32,14 @@ The simulation will generate:
 - Jupyter Notebook
 - Github 
 
-### Next Steps
+### Next Steps:
 
 My goal for the coming week is to develop a basic Python simulation of a gaussian laser beam and generate a phase profile for a phase plate. I will use NumPy to perform the calculations and Matplotlib to visualize the resulting beam profile.
+
+### Reflection:
+
+- What is a commit?
+
+- Why might you use a branch instead of editing main directly?
+
+- How does an issue differ from a pull request?
