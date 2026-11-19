@@ -31,3 +31,7 @@ The simulation will generate:
 - Matplotlib
 - Jupyter Notebook
 - Github 
+
+### Next Steps
+
+My goal for the coming week is to develop a basic Python simulation of a gaussian laser beam and generate a phase profile for a phase plate. I will use NumPy to perform the calculations and Matplotlib to visualize the resulting beam profile.
